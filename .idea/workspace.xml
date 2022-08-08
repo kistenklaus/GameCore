@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2cfa82a7-ee69-4c56-b18d-fcc7230a5573" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameCore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameCore_v2/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2cfa82a7-ee69-4c56-b18d-fcc7230a5573" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659970407629</updated>
-      <workItem from="1659970408897" duration="915000" />
+      <workItem from="1659970408897" duration="1188000" />
     </task>
     <servers />
   </component>
